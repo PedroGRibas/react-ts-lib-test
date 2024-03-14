@@ -1,6 +1,6 @@
 {
-  "name": "@PedroGRibas/react-ts-lib-test",
-  "version": "0.0.1",
+  "name": "@pedrogribas/react-ts-lib-test",
+  "version": "0.0.3",
   "description": "react component library test",
   "scripts": {
     "rollup": "rollup -c"
@@ -29,7 +29,7 @@
     "dist"
   ],
   "types": "dist/index.d.ts",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/PedroGRibas"
+  "publishConfig": {  
+    "registry": "https://npm.pkg.github.com/pedrogribas"
   }
 }
